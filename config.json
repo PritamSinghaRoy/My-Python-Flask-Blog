@@ -1,0 +1,32 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost:3308/contactme",
+        "prod_uri":"mysql://root:@localhost:3308/contactme",
+        "in_url":"https://linkedin.com/in/pritam-singha-roy-0491651a7",
+        "fb_url":"https://facebook.com/pritam.singharoy.54",
+        "gh_url":"https://github.com/PritamSinghaRoy",
+        "gmail_user":"singharoypritam33@gmail.com",
+        "gmail_password":"Python@1997",
+        "about_text":"Hi my name is Pritam Singha Roy.I am working with Data Science and it's fun.",
+        "no_of_posts":2,
+        "login_image":"dog.png",
+        "admin_user":"pritam",
+        "admin_password":"12345",
+        "upload_location":"C:\\Users\\Me\\vs code\\flask\\static"
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+}
